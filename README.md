@@ -1,1 +1,40 @@
-# 1st-website.1
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reddy's first website</title>
+    <link rel="stylesheet" href="style1.css">
+</head>
+<body>
+<h1>Website will be LAUNCHED SOON,Listen to music until it begins.    
+    <h2> New web on 31/08/2k25 at 8pm.   </h2>
+    <h3>You can listen and download songs.</h3>
+    <h1>Trending songs</h1>
+<audio src="Bujji Theme (2).mp3" controls></audio>
+<img src="download.jpg" alt="">
+<audio src="Monica (Telugu)(KoshalWorld.Com).mp3" controls ></audio>
+<img src="images1.jpg" alt="">
+<h1>Romantic songs</h1>
+<audio src="Darshana(KoshalWorld.Com).mp3" controls></audio>
+<img src="images.jpg" alt="">
+<audio src="Ranjha - Shershaah 128 Kbps.mp3"controls></audio>
+<img src="download (2).jpg"alt="">
+<h1>Fav of 2021</h1>
+<audio src="Gar.mp3" controls ></audio>
+<img src="download ff.jpg" alt="">
+<audio src="Desh Mere (Lofi Mix)(KoshalWorld.Com).mp3" controls></audio>
+<img src="download ind.jpg" alt="">
+<h1>Fav of 2023</h1>
+<audio src="Tere Vaaste Zara Hatke Zara Bachke 128 Kbps.mp3" controls ></audio>
+<img src="download tere.jpg" alt="">
+<audio src="1080_1104__Aadavari Matalaku Arthale Verule Telugu HD Movie _ 2024 _ Venkatesh, Trisha.mp3" controls></audio>
+<h1>Fav of V </h1>
+<audio src="v_ringtone.mp3" controls></audio>
+<audio src="v_nani_bgm.mp3" controls></audio>
+<audio src="v_movie_bgm.mp3" controls></audio>
+<audio src="v_movie_bgm (1).mp3" controls></audio>
+<img src="download  v.jpg" alt="">
+<script src="script1.js"></script>
+</body>
+</html>
